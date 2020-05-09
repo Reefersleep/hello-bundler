@@ -1,7 +1,7 @@
 module.exports = {
-    entry: './out/index.js',
+    entry: './target/public/cljs-out/dev/index.js',
     output: {
-        path: __dirname + "/out",
-        filename: 'out/main.js'
+        path: __dirname + "/target/public/cljs-out/dev",
+        filename: '/target/public/cljs-out/dev/main.js'
     }
 }

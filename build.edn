@@ -1,6 +1,6 @@
 {:main hello-bundler.core
- :output-to "out/index.js"
- :output-dir "out"
+ :output-to "target/public/cljs-out/dev/index.js"
+ :output-dir "target/public/cljs-out/dev"
  :target :bundle
  :bundle-cmd {:none ["npx" "webpack" "--mode=development"]
               :default ["npx" "webpack"]}
