@@ -1,0 +1,2 @@
+"442afb62af655af05428a4c2efb671c74283fc24"
+[cl-struct-undo-tree [nil ([nil ([nil (#1=[nil nil ((262 . 263) 147) nil (24246 53015 876103 0) 0 nil]) ((#("j" 0 1 (fontified t face font-lock-comment-face font-lock-multiline t)) . -262) (undo-tree-id0 . -1) (262 . 263)) nil (24246 53015 876115 0) 0 nil]) ((nil rear-nonsticky nil 261 . 262) (nil fontified nil 1 . 262) (1 . 262) (t . -1)) nil (24246 53015 876120 0) 0 nil]) nil nil (24246 53015 876122 0) 0 nil] #1# 73 3 nil]

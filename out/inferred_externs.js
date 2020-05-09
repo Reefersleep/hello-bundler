@@ -1,0 +1,10 @@
+Object.Component;
+Object.out;
+Object.out.println;
+Object.error;
+Object.error.println;
+var setTimeout;
+var process;
+process.hrtime;
+var Java;
+Java.type;

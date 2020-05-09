@@ -1,0 +1,1 @@
+{:output-dir "out", :closure-defines #:cljs.core{*global* "window"}, :verbose true, :aot-cache true, :output-to "out/index.js", :bundle-cmd {:none ["npx" "webpack" "--mode=development"], :default ["npx" "webpack"]}, :browser-repl true, :target :bundle, :main hello-bundler.core}
